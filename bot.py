@@ -3,6 +3,8 @@ import asyncio
 import random
 import openpyxl
 import datetime
+import os
+
 
 client = discord.Client()
 
@@ -153,5 +155,5 @@ print("헵자봇 제작자 멍청이임")
 
 
 
-
-client.run('')
+acces_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
