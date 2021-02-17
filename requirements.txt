@@ -1,5 +1,4 @@
-discord.py
-asyncio
-random
-openpyxl
-datetime
+discord.py == 1.5.1
+asyncio == 3.4.3
+openpyxl == 3.0.5
+datetime == 4.3
