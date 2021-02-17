@@ -1,6 +1,5 @@
 import discord
 import asyncio
-import random
 import openpyxl
 import datetime
 import os
